@@ -14,5 +14,18 @@ Projeto para Trabalho  de Conclusão de Curso (Mobile){
 
 ![image](https://github.com/SuellenMiranda/TCC_PROJETO/assets/62394959/620af74b-7eb0-4e91-b0ec-2a4dd16632da)
 
+> 3º Caso queria dar uma olhada em quantas telas vão ficar e como vai ser de forma bem simples faça o mesmo passo acima com esse [SIMULATOR](https://snack.expo.dev/@kittymayuko/screen_1_2_3_4_1_5_6_7_1) ou olhe o mermaid abaixo do qr code
+
+![image](https://github.com/SuellenMiranda/TCC_PROJETO/assets/62394959/3dcb1a60-4753-4c91-951c-205b57614886)
+
+> inicialmente vai ser assim:
+
+```mermaid
+graph LR
+A((logo - entrada)) --> B(login) --> D[tela inicial] --> F{perfil} --> D[tela inicial] --> A((logo - entrada)) --> C(cadastro) --> E((verificação)) --> D --> G{configurações} --> D[tela inicial]
+F{perfil} --> A((logo - entrada))
+
+```
+
 ### Notas Gist.github
 [tcc-document-github.txt](https://gist.github.com/SuellenMiranda/ac533f283ba96096728f376febe3ade7)
