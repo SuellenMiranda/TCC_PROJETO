@@ -5,6 +5,11 @@ Projeto para Trabalho  de Conclusão de Curso (Mobile){
   projeto só frontend
 } 
 ```
+
+> [job_rednit](https://snack.expo.dev/@kittymayuko/job_rednit)
+
+> [job_rednit2](https://snack.expo.dev/@kittymayuko/job_rednit2)
+
 ### Para testar a aplicação
 > 1º Primeiro baixe o [Expo - Expo Project](https://play.google.com/store/apps/details?id=host.exp.exponent&hl=pt_BR&gl=US)
 
