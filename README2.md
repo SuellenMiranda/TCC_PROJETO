@@ -13,3 +13,7 @@ Run the following commands in your project root directory:
 Terminal
 npm install --global eas-cli && \
 eas init --id c9fa3dc7-3ca2-49b3-afaa-df9946870bbd
+
+add - https://snack.expo.dev/@kittymayuko/job_rednit
+add - https://snack.expo.dev/@kittymayuko/job_rednit2
+alter name "Job_Rednit" to "EstágioSwipe Connect"
